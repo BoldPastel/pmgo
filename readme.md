@@ -1,3 +1,3 @@
 ## PMGO
 
-https://shields.io/github/license/BoldPastel/pmgo
+![MIT](https://img.shields.io/github/license/BoldPastel/pmgo "MIT")
