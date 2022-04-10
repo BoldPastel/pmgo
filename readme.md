@@ -1,3 +1,3 @@
 ## PMGO
 
-/github/license/BoldPastel/pmgo
+https://shields.io/github/license/BoldPastel/pmgo
